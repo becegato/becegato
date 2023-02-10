@@ -4,4 +4,3 @@
 - 🐍 Trabalho com python e R e estou cada dia mais evoluíndo com machine learning!
 - 😄 Meu pronomes são Ela/Dela
 - ⚡ Fun fact: Eu tenho as formações mais aleatórias que alguém poderia ter! 
--->
