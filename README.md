@@ -1,4 +1,4 @@
-### ✨ Olá meu bem, ta bom? Eu sou a Luísa, prazer! ✨
+### ✨ Olá meu bem, tudo bom? Eu sou a Luísa, prazer! ✨
 
 - 🔭 Sou uma cientista de dados há 10 anos, quando ainda se chamava estaística! 
 - 🐍 Programo em Python e R e estou cada dia mais evoluíndo com machine learning e inteligência artificial!
